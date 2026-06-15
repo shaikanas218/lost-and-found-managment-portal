@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect",
+  "description": "A centralized lost and found management portal for college campuses with student reporting and administrator verification workflow.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
